@@ -25,3 +25,7 @@ Added OTA update code and the below new methods.
     getComplementaryColor( int color)
     callTimeApi()
     changeColor()
+
+
+## Sample Photo
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
