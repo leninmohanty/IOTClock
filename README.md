@@ -6,6 +6,8 @@ https://www.diymachines.co.uk/how-to-build-a-giant-hidden-shelf-edge-clock
 
 Thanks a lot DIY Machines for your project and sharing it with others.
 
+There are some changes made to the original version below. 
+
 Hardware used: 
 1. D1 mini
 2. photo register
