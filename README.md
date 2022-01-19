@@ -1,9 +1,10 @@
 # IOTClock
 
 
-This is enhanced version of the Digital clock shared by DIY Machines
+This is an enhanced version of the Digital clock shared by DIY Machines
 https://www.diymachines.co.uk/how-to-build-a-giant-hidden-shelf-edge-clock
 
+Thanks a lot for your project and sharing it with others.
 
 Hardware used : 
 1. D1 mini
