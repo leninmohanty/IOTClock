@@ -28,4 +28,4 @@ Added OTA update code and the below new methods.
 
 
 ## Sample Photo
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/leninmohanty/IOTClock/blob/main/photo.jpeg?raw=true)
